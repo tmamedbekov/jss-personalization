@@ -11,5 +11,3 @@ Then set up some campaigns
 And personalize your components
 
 ![alt text](https://raw.githubusercontent.com/tmamedbekov/jss-personalization/master/data/media/img/orlando/personalization.png)
-
-[![Quality Gate](<serverBaseURL>/api/badges/gate?key=tmamedbekov_jss-personalization)](<serverBaseURL>/dashboard/index/<project or view key>)
