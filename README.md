@@ -2,11 +2,11 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tmamedbekov_jss-personalization&metric=alert_status)](https://sonarcloud.io/dashboard?id=tmamedbekov_jss-personalization)
 
-> jss start
-
-> npm run build
-
-> jss deploy app
+```
+jss start
+npm run build
+jss deploy app
+```
 
 Then set up some campaigns
 
