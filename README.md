@@ -14,9 +14,9 @@ And personalize your components
 
 ![alt text](https://raw.githubusercontent.com/tmamedbekov/jss-personalization/master/data/media/img/orlando/personalization.png)
 
-## And now about testing this with JSS SSR Proxy?
+## Can this demo site be tested with JSS SSR Proxy?
 
-I got you covered:
+Of cource I got you covered:
 
 Step 1: Deploy this repo into your Sitecore Instance
 
