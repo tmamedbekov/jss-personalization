@@ -13,3 +13,13 @@ Then set up some campaigns
 And personalize your components
 
 ![alt text](https://raw.githubusercontent.com/tmamedbekov/jss-personalization/master/data/media/img/orlando/personalization.png)
+
+## And now about testing this with JSS SSR Proxy?
+
+I got you covered:
+
+Step 1: Deploy this repo into your Sitecore Instance
+
+Step 2: Pull the Docker Image and run it and enjoy it:
+
+https://hub.docker.com/r/tmamedbekov/headless-sitecore
