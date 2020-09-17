@@ -54,7 +54,7 @@
     "node-sass": "^4.12.0",
     "popper.js": "^1.15.0",
     "react": "~16.7.0",
-    "react-apollo": "~2.3.3",
+    "react-apollo": "~2.5.8",
     "react-dom": "~16.7.0",
     "react-helmet": "^5.2.1",
     "react-i18next": "^9.0.10",
