@@ -46,7 +46,7 @@
     "firebase": "^7.2.2",
     "fsevents": "^1.2.9",
     "graphql": "~14.7.0",
-    "graphql-tag": "^2.10.1",
+    "graphql-tag": "^2.11.0",
     "i18next": "^13.1.5",
     "i18next-fetch-backend": "~2.0.0",
     "isomorphic-fetch": "~2.2.1",
