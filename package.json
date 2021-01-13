@@ -51,7 +51,7 @@
     "i18next-fetch-backend": "~2.0.0",
     "isomorphic-fetch": "~2.2.1",
     "jquery": "^3.4.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.14.1",
     "popper.js": "^1.15.0",
     "react": "~16.13.1",
     "react-apollo": "~2.3.3",
